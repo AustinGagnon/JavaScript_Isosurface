@@ -1,0 +1,12 @@
+body {
+   /* background-color: darkgrey; */
+}
+#canvas {
+   /* position: absolute; */
+   background-color: 'blue';
+
+   border: 1px solid red;
+   /* width: 160px;
+   height: 240px; */
+   /* left: calc(50% - 80px) */
+}
